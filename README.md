@@ -1,4 +1,4 @@
-# Specifik-cija
+# Specifikacija
 Specifikācija
 
 Problēma: 
